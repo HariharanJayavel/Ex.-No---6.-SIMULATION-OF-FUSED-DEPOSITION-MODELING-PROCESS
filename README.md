@@ -1,11 +1,11 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27.11.2023
 ## AIM:
-### To simulate the Fused Deposition Modeling (FDM) process.
+ To simulate the Fused Deposition Modeling (FDM) process.
 
 ## REQUIREMENTS:
-### System - Windows 7 or higher, 1 GB RAM.
+  System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 ### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
@@ -15,15 +15,18 @@
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
 ## Output:
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/7380be33-1a4f-44c5-a382-b867d44fda5c)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/1ad4bb7d-7c1b-4d42-8d8d-fd0dea07ac2c)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/73169718-67cd-4f19-9ca1-a1b27632a82d)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/7e2a5930-d71a-4baa-9323-c221b023cda5)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/e8f49d2a-2fba-48b8-ad3b-a3d25a029db4)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/5ba057a3-ec69-4860-ba19-e1a5ff2b6e69)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/190cdf7b-841a-473d-94de-f92ff1a28f66)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/e3335e5d-d659-46cf-ab97-550221d77a5a)
 
-### Name:
-### Register Number:
+### Name:HARIHARAN J
+### Register Number:23011967
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
