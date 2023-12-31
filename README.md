@@ -20,13 +20,13 @@
 ![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/1ad4bb7d-7c1b-4d42-8d8d-fd0dea07ac2c)
 ![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/73169718-67cd-4f19-9ca1-a1b27632a82d)
 ![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/7e2a5930-d71a-4baa-9323-c221b023cda5)
-![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/e8f49d2a-2fba-48b8-ad3b-a3d25a029db4)
+![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/6cc9f7fa-297c-42ad-9137-184dac94e13f)
 ![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/5ba057a3-ec69-4860-ba19-e1a5ff2b6e69)
 ![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/190cdf7b-841a-473d-94de-f92ff1a28f66)
 ![image](https://github.com/HariharanJayavel/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144870546/e3335e5d-d659-46cf-ab97-550221d77a5a)
 
 ### Name:HARIHARAN J
-### Register Number:23011967
+### Register Number:21222324047
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
